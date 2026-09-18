@@ -1,0 +1,6 @@
+{
+  "name": "PrepStack",
+  "description": "Comprehensive IT & Product Placement Preparation App with structured roadmaps, curated syllabus, company interview pipelines, and interactive practice tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
